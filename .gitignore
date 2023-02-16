@@ -1,0 +1,4 @@
+/package-lock.json
+.quasar
+.vscode
+node_modules
